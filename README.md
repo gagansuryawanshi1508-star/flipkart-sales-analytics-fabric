@@ -217,7 +217,7 @@ Provides detailed sales analysis including:
 - Product Category Revenue
 - Yearly Order Trend
 
-![Sales Deep Dive Dashboard](images/Dashboard/Sales_Deep_Dive.png)
+![Sales Deep Dive Dashboard](Dashboard/Sales_Deep_Dive.png)
 
 ---
 
@@ -230,7 +230,7 @@ Provides detailed product performance including:
 - Product Contribution
 - Treemap Visualization
 
-![Product Analytics Dashboard](images/Dashboard/Product_Analytics.png)
+![Product Analytics Dashboard](Dashboard/Product_Analytics.png)
 
 ---
 

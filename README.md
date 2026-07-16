@@ -204,7 +204,7 @@ Provides a high-level overview of:
 - Revenue by Category
 - Revenue by Zone
 
-![Executive Summary](Executive_Summary.png)
+![Executive Summary](images/Dashboard/Executive_Summary.png)
 
 ---
 
